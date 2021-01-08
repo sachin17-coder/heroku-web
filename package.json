@@ -13,6 +13,10 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "4.1.1"
+  },
   "bugs": {
     "url": "https://github.com/sachin17-coder/heroku-web/issues"
   },
